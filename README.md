@@ -1,3 +1,3 @@
 # Assigment7
 Test
-Commit B1
+Git commit

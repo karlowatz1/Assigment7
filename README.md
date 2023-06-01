@@ -1,4 +1,2 @@
 # Assigment7
-Test
-Added B1
-
+Merged A1 into B
